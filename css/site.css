@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(211, 178, 128);
+    color:rgb(97, 31, 5);
+    margin: 0;
+}
+footer{
+    margin:20px;
+}
+
+.main-content{
+padding:20px;
+}
+
+.content-card{
+background-color: rgb(187, 142, 82);
+border-radius: 10px;
+border-color: rgb(161, 84, 21);
+padding:10px
+}
